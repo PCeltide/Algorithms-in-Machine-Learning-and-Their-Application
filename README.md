@@ -21,7 +21,7 @@ Each assignment builds upon core concepts in data analysis and machine learning.
 | **Sheet 3** | Principal Component Analysis (PCA), Dimensionality Reduction, HOG Features        | Complete |
 | **Sheet 4** | Deep Neural Networks (DNNs), Backpropagation, CNNs, Keras/TensorFlow                | Complete |
 | **Sheet 5** | Reinforcement Learning, Markov Decision Processes, Q-Learning, Sarsa              | Pending  |
-| **Sheet 6** | Final Project: Analysis of a real-world dataset    | Pending  |
+| **Final Project** | Analysis of a real-world dataset    | Pending  |
 
 ## Technologies & Libraries
 

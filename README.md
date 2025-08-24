@@ -1,12 +1,10 @@
 # Algorithms in Machine Learning and Their Application
 
-### University of Bonn - Summer Semester 2025
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+### University of Bonn - Summer Semester 2025 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## Course Overview
 
-This repository archives my coursework for the practical lab "Algorithms in Machine Learning and Their Application" (SS25). [cite_start]The course, instructed by Prof. Dr. Jochen Garcke and Dr. Bastian Bohn, focuses on equipping students with the skills to develop numerical software for machine learning and apply these techniques to complex data analysis tasks. [cite: 4]
+This repository archives my coursework for the practical lab "Algorithms in Machine Learning and Their Application" (SS25). [cite_start]The course, instructed by Prof. Dr. Jochen Garcke and Dr. Bastian Bohn, focuses on equipping students with the skills to develop numerical software for machine learning and apply these techniques to complex data analysis tasks.
 
 This repository contains my implementations of various foundational and advanced machine learning algorithms.
 

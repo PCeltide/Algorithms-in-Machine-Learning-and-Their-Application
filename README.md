@@ -1,6 +1,6 @@
-# Algorithms in Machine Learning and Their Application
+# Algorithms in Machine Learning and Their Application [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-### University of Bonn - Summer Semester 2025 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+### University of Bonn - Summer Semester 2025
 
 ## Course Overview
 

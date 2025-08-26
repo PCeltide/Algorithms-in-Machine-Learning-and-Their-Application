@@ -1,0 +1,20 @@
+# Geo coordinate conversion
+pyproj
+
+# Timezone information
+pytz
+
+# Progress bar
+tqdm
+
+# HTTP requests, caching
+requests
+cachecontrol[filecache]
+
+# Parse HTML
+bs4
+lxml
+
+dateutils
+
+ipyleaflet

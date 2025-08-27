@@ -4,8 +4,12 @@ import pyproj
 class GeographicPosition(tuple):
     @classmethod
     def conv(cls, x, y, proj4):
-        x, y = pyproj.Proj(init=proj4)(x, y, inverse=True)
-        return cls((y, x))
+        # Define the source and target Coordinate Reference Systems (CRS)
+        source_crs = pyproj.CRS(proj4)
+        target_crs = pyproj.CRS("EPSG:4326") # WGS84 standard for latitude/longitude
+        transformer = pyproj.Transformer.from_crs(source_crs, target_crs, always_xy=False)
+        lat, lon = transformer.transform(x, y)
+        return cls((lat, lon))
 
     def __str__(self):
         return repr(self)
